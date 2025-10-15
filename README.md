@@ -63,7 +63,7 @@ ecommerce-funnel-abtest/
 > View→Cart 단계는 퍼널 전체 효율을 좌우하는 결정적 병목 구간으로,  
 > 이후 A/B Test(Process 04)에서 이 구간을 주요 개선 타깃으로 설정함.  
 
- *시각화: ![Behavioral Comparison](img/2.behavior_comparison.png)*
+ *시각화: ![Behavioral Comparison](img/2.user_behavior_comparison.png)*
  
 
 ---
@@ -73,7 +73,7 @@ ecommerce-funnel-abtest/
 - View→Purchase 전환율 비교 (단측 Z-test)  
 - B그룹 전환율 **+0.22%p 상승 (Z=2.48, p=0.0065)**  
 
- *시각화: ![A/B Test Result](img/3.abtest_result.png)*
+ *시각화: ![A/B Test Result](img/3.3.abtest_simulation.png)*
 
 ---
 
