@@ -15,6 +15,7 @@
 ---
 
 ## 📂 파일 구성  
+```
 ecommerce-funnel-abtest/
 ├─ sql/                     # ① 원시 데이터 전처리 (DuckDB)
 │   └─ preprocessing.sql
@@ -28,7 +29,7 @@ ecommerce-funnel-abtest/
 │   ├─ 3.abtest_result.png
 │   └─ 4.roi_estimation.png
 ├─ README.md                # ⑤ 전체 프로젝트 개요
-
+```
 ---
 
 ## 📄 분석 단계  
@@ -73,7 +74,7 @@ ecommerce-funnel-abtest/
 - View→Purchase 전환율 비교 (단측 Z-test)  
 - B그룹 전환율 **+0.22%p 상승 (Z=2.48, p=0.0065)**  
 
- *시각화: ![A/B Test Result](img/3.3.abtest_simulation.png)*
+ *시각화: ![A/B Test Result](img/3.abtest_simulation.png)*
 
 ---
 
