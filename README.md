@@ -93,7 +93,7 @@ ecommerce-funnel-abtest/
 
 ---
 
-## 주요 결과 요약  
+## 📄 주요 결과 요약  
 | 구분 | 결과 요약 |
 |------|------------|
 | **핵심 병목** | View→Cart 단계 (전환율 9%) |
@@ -104,7 +104,7 @@ ecommerce-funnel-abtest/
 
 ---
 
-## 인사이트 및 시사점  
+## 📄 인사이트 및 시사점  
 - 단순 전환율 분석을 넘어, **행동 비교 → 실험 설계 → ROI 추정**으로  
   **데이터 기반 마케팅 실험 구조**를 완성  
 - View→Cart 구간 개선만으로도 구매 전환 및 매출에 직접적 영향 확인  
@@ -112,7 +112,7 @@ ecommerce-funnel-abtest/
 
 ---
 
-## 기술 스택  
+## 📄 기술 스택  
 - **SQL (DuckDB)**: 퍼널 데이터 구축  
 - **Python (Colab)**: EDA, 통계 검정, 시각화  
 - **Visualization**: Matplotlib  
